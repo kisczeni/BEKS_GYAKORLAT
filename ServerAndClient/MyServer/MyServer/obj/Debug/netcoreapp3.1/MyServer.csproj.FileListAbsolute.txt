@@ -1,0 +1,13 @@
+E:\visual_basic_projects\BEKS\MyServer\MyServer\bin\Debug\netcoreapp3.1\MyServer.exe
+E:\visual_basic_projects\BEKS\MyServer\MyServer\bin\Debug\netcoreapp3.1\MyServer.deps.json
+E:\visual_basic_projects\BEKS\MyServer\MyServer\bin\Debug\netcoreapp3.1\MyServer.runtimeconfig.json
+E:\visual_basic_projects\BEKS\MyServer\MyServer\bin\Debug\netcoreapp3.1\MyServer.runtimeconfig.dev.json
+E:\visual_basic_projects\BEKS\MyServer\MyServer\bin\Debug\netcoreapp3.1\MyServer.dll
+E:\visual_basic_projects\BEKS\MyServer\MyServer\bin\Debug\netcoreapp3.1\MyServer.pdb
+E:\visual_basic_projects\BEKS\MyServer\MyServer\obj\Debug\netcoreapp3.1\MyServer.csprojAssemblyReference.cache
+E:\visual_basic_projects\BEKS\MyServer\MyServer\obj\Debug\netcoreapp3.1\MyServer.AssemblyInfoInputs.cache
+E:\visual_basic_projects\BEKS\MyServer\MyServer\obj\Debug\netcoreapp3.1\MyServer.AssemblyInfo.cs
+E:\visual_basic_projects\BEKS\MyServer\MyServer\obj\Debug\netcoreapp3.1\MyServer.csproj.CoreCompileInputs.cache
+E:\visual_basic_projects\BEKS\MyServer\MyServer\obj\Debug\netcoreapp3.1\MyServer.dll
+E:\visual_basic_projects\BEKS\MyServer\MyServer\obj\Debug\netcoreapp3.1\MyServer.pdb
+E:\visual_basic_projects\BEKS\MyServer\MyServer\obj\Debug\netcoreapp3.1\MyServer.genruntimeconfig.cache

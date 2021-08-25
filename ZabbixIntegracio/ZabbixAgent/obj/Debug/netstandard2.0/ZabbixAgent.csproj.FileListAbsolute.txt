@@ -1,0 +1,13 @@
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\ZabbixAgent\bin\Debug\netstandard2.0\ZabbixAgent.deps.json
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\ZabbixAgent\bin\Debug\netstandard2.0\ZabbixAgent.dll
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\ZabbixAgent\bin\Debug\netstandard2.0\ZabbixAgent.pdb
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\ZabbixAgent\obj\Debug\netstandard2.0\ZabbixAgent.csprojAssemblyReference.cache
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\ZabbixAgent\obj\Debug\netstandard2.0\ZabbixAgent.AssemblyInfoInputs.cache
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\ZabbixAgent\obj\Debug\netstandard2.0\ZabbixAgent.AssemblyInfo.cs
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\ZabbixAgent\obj\Debug\netstandard2.0\ZabbixAgent.csproj.CoreCompileInputs.cache
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\ZabbixAgent\obj\Debug\netstandard2.0\ZabbixAgent.dll
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\ZabbixAgent\obj\Debug\netstandard2.0\ZabbixAgent.pdb
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\ZabbixAgent\bin\Debug\netstandard2.0\JSONClasses.dll
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\ZabbixAgent\bin\Debug\netstandard2.0\JSONClasses.pdb
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\ZabbixAgent\obj\Debug\netstandard2.0\ZabbixAgent.csproj.CopyComplete
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\ZabbixAgent\bin\Debug\netstandard2.0\Agent.config

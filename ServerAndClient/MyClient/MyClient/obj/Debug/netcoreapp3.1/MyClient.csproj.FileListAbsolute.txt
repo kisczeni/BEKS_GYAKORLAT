@@ -1,0 +1,13 @@
+E:\visual_basic_projects\BEKS\MyClient\MyClient\bin\Debug\netcoreapp3.1\MyClient.exe
+E:\visual_basic_projects\BEKS\MyClient\MyClient\bin\Debug\netcoreapp3.1\MyClient.deps.json
+E:\visual_basic_projects\BEKS\MyClient\MyClient\bin\Debug\netcoreapp3.1\MyClient.runtimeconfig.json
+E:\visual_basic_projects\BEKS\MyClient\MyClient\bin\Debug\netcoreapp3.1\MyClient.runtimeconfig.dev.json
+E:\visual_basic_projects\BEKS\MyClient\MyClient\bin\Debug\netcoreapp3.1\MyClient.dll
+E:\visual_basic_projects\BEKS\MyClient\MyClient\bin\Debug\netcoreapp3.1\MyClient.pdb
+E:\visual_basic_projects\BEKS\MyClient\MyClient\obj\Debug\netcoreapp3.1\MyClient.AssemblyInfoInputs.cache
+E:\visual_basic_projects\BEKS\MyClient\MyClient\obj\Debug\netcoreapp3.1\MyClient.AssemblyInfo.cs
+E:\visual_basic_projects\BEKS\MyClient\MyClient\obj\Debug\netcoreapp3.1\MyClient.csproj.CoreCompileInputs.cache
+E:\visual_basic_projects\BEKS\MyClient\MyClient\obj\Debug\netcoreapp3.1\MyClient.dll
+E:\visual_basic_projects\BEKS\MyClient\MyClient\obj\Debug\netcoreapp3.1\MyClient.pdb
+E:\visual_basic_projects\BEKS\MyClient\MyClient\obj\Debug\netcoreapp3.1\MyClient.genruntimeconfig.cache
+E:\visual_basic_projects\BEKS\MyClient\MyClient\obj\Debug\netcoreapp3.1\MyClient.csprojAssemblyReference.cache

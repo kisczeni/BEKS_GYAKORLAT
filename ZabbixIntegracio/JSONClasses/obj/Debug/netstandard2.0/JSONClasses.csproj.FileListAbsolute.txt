@@ -1,0 +1,9 @@
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\JSONClasses\bin\Debug\netstandard2.0\JSONClasses.deps.json
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\JSONClasses\bin\Debug\netstandard2.0\JSONClasses.dll
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\JSONClasses\bin\Debug\netstandard2.0\JSONClasses.pdb
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\JSONClasses\obj\Debug\netstandard2.0\JSONClasses.csprojAssemblyReference.cache
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\JSONClasses\obj\Debug\netstandard2.0\JSONClasses.AssemblyInfoInputs.cache
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\JSONClasses\obj\Debug\netstandard2.0\JSONClasses.AssemblyInfo.cs
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\JSONClasses\obj\Debug\netstandard2.0\JSONClasses.csproj.CoreCompileInputs.cache
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\JSONClasses\obj\Debug\netstandard2.0\JSONClasses.dll
+E:\visual_basic_projects\BEKS\ZabbixIntegracio\JSONClasses\obj\Debug\netstandard2.0\JSONClasses.pdb

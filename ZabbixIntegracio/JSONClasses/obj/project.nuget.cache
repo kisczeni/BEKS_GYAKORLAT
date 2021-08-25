@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3lV4ziNcv6GcOuhuexAId1up/JgoLXWfdOROMpn/Y6RYD57I2/ThaXA/plEWQq84DMa5aMWDv7/YB6HMEuobyQ==",
+  "success": true,
+  "projectFilePath": "E:\\visual_basic_projects\\BEKS\\ZabbixIntegracio\\JSONClasses\\JSONClasses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\korne\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\korne\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
